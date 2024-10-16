@@ -1,0 +1,2 @@
+# alx-interview
+This repository stores every projects for alx interview preparation
